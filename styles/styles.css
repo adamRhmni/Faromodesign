@@ -209,7 +209,8 @@ footer {
     display: none;
   }
 }
-.project {
+.project:hover {
+    transform: scale(1.2);
   
 }
 
